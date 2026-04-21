@@ -248,6 +248,12 @@ body {
     border-radius: 12px;
     padding: 20px 22px;
     background: #ffffff;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.tech-category:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.08);
 }
 
 .tech-category h3 {

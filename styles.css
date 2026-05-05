@@ -45,7 +45,7 @@ body {
 /* HERO */
 .hero {
     height: 88vh;
-    background-image: url("https://images.unsplash.com/photo-1636996692940-4e61c2d79dfa?w=1920&q=80");
+    background-image: url("https://ela-art.github.io/ela-portfolio/hero_bg.jpg");
     background-size: cover;
     background-position: center top;
     background-repeat: no-repeat;

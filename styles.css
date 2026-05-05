@@ -45,7 +45,7 @@ body {
 /* HERO */
 .hero {
     height: 88vh;
-    background-image: url("https://ela-art.github.io/ela-portfolio/foto_portada.png");
+    background-image: url("https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1920&q=80");
     background-size: cover;
     background-position: center top;
     background-repeat: no-repeat;

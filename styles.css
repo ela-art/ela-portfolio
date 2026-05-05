@@ -45,7 +45,7 @@ body {
 /* HERO */
 .hero {
     height: 88vh;
-    background-image: url("https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1920&q=80");
+    background-image: url("https://images.unsplash.com/photo-1636996692940-4e61c2d79dfa?w=1920&q=80");
     background-size: cover;
     background-position: center top;
     background-repeat: no-repeat;
@@ -60,7 +60,7 @@ body {
 .hero-overlay {
     position: absolute;
     inset: 0;
-    background: rgba(0, 0, 0, 0.35);
+    background: rgba(0, 0, 0, 0.45);
 }
 
 .hero-content {

@@ -45,7 +45,7 @@ body {
 /* HERO */
 .hero {
     height: 88vh;
-    background-image: url("https://raw.githubusercontent.com/Ana-Duag/portfolio/main/fondo4.jpeg");
+    background-image: url("foto_portada.png");
     background-size: cover;
     background-position: center top;
     background-repeat: no-repeat;

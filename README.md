@@ -17,11 +17,12 @@ Live site: [ela-art.github.io/ela-portfolio](https://ela-art.github.io/ela-portf
 | [Análisis del Teatro Musical en España (2010–2026)](https://github.com/ela-art/Analisis-del-Teatro-Musical-2010-2026) | Python · Power BI | Custom datasets, star schema, market concentration |
 | [Brazilian E-commerce SQL Analysis (Olist)](https://github.com/ela-art/Brazilian-ecommerce-sql-analysis) | Python · SQL · Power BI | Revenue, delivery performance, customer satisfaction |
 | [Proyecto Transformando Talento](https://github.com/ela-art/proyecto-transformando-talento) | Python | Employee attrition profiling and retention analysis |
+| [Audience to Stage · Dubai Live Entertainment](https://github.com/ela-art/audience-to-stage) | Python · MySQL · Tableau | Tourism rotation vs. show design — sentiment analysis, star schema, competitive benchmarking |
 
 ## Tech Stack
 
-- **Analysis:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (MySQL), Excel  
-- **BI & Visualization:** Power BI (DAX, Power Query)  
+- **Analysis:** Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy), SQL (MySQL), Excel  
+- **BI & Visualization:** Power BI (DAX, Power Query), Tableau  
 - **Engineering basics:** ETL, Python–SQL integration, Jupyter, VS Code, Git/GitHub  
 - **Workflow:** Scrum/Agile, data storytelling, generative AI tools
 

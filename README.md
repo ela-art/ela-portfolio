@@ -19,6 +19,7 @@ Live site: [ela-art.github.io/ela-portfolio](https://ela-art.github.io/ela-portf
 | [Proyecto Transformando Talento](https://github.com/ela-art/proyecto-transformando-talento) | Python | Employee attrition profiling and retention analysis |
 | [Audience to Stage · Dubai Live Entertainment](https://github.com/ela-art/audience-to-stage) | Python · MySQL · Tableau | Tourism rotation vs. show design — sentiment analysis, star schema, competitive benchmarking |
 
+
 ## Tech Stack
 
 - **Analysis:** Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy), SQL (MySQL), Excel  
